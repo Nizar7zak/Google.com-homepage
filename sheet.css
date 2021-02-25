@@ -3,7 +3,6 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-
 }
 
 .wrapper { 
@@ -12,10 +11,6 @@
     width: 100%;
     flex-direction: column;
 }
-
-
-
-
 /* -------NAV----------*/
 .ul-head {
     list-style-type: none;
@@ -24,7 +19,6 @@
     justify-content: flex-end;
     align-items: center;
     font-size: 13px;
-
 }
 
 li {
@@ -68,7 +62,6 @@ ul a:hover {
     position: relative;
     flex: 1;
     justify-content: center;
-
 }
 
 .row1 {
@@ -128,7 +121,6 @@ ul a:hover {
 
 .btn-sub:hover {
  border: 0.5px solid rgb(202, 202, 202);
- 
 }
 
 .search-btn:hover {
@@ -190,7 +182,7 @@ ul a:hover {
 /*-----------FOOTER------------*/
 
 footer {
-      width: 100%;
+    width: 100%;
 }
 
 .ul-footer {
